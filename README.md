@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Agastya124
+- 👋 Hi, I’m @Agastya Niranjan Sahoo
 
 <!---
 Agastya124/Agastya124 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
